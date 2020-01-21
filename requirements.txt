@@ -1,0 +1,8 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+face_recognition
+cmake
+dlib
+uwsgi
