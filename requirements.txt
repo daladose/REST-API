@@ -4,5 +4,5 @@ Flask-JWT
 Flask-SQLAlchemy
 face_recognition
 cmake
-dlib
+dlib==19.19.0
 uwsgi
