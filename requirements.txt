@@ -3,6 +3,7 @@ Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
 face_recognition
+opencv-python
 cmake
-dlib
+dlib-python
 uwsgi
